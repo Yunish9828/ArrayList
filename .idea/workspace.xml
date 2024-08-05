@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc861fad-657f-4589-a066-e6c789e98a24" name="Changes" comment="">
+    <list default="true" id="cc861fad-657f-4589-a066-e6c789e98a24" name="Changes" comment="Arraylist">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +66,24 @@
       <workItem from="1722325224628" duration="1157000" />
       <workItem from="1722326409430" duration="2228000" />
       <workItem from="1722390798893" duration="5000" />
-      <workItem from="1722876503961" duration="2188000" />
+      <workItem from="1722876503961" duration="2538000" />
     </task>
+    <task id="LOCAL-00001" summary="Arraylist">
+      <option name="closed" value="true" />
+      <created>1722879006733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722879006733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arraylist" />
   </component>
 </project>
